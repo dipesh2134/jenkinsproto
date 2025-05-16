@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo 'Deploying///**good, morning*\\\'
+                echo 'Deploying///**good, evening*\\\'
             }
         }
     }
